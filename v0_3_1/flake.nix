@@ -8,8 +8,8 @@
   inputs.flakeNimbleLib.inputs.nixpkgs.follows = "nixpkgs";
   
   inputs.src-csvtable-v0_3_1.flake = false;
+  inputs.src-csvtable-v0_3_1.ref   = "refs/tags/v0.3.1";
   inputs.src-csvtable-v0_3_1.owner = "apahl";
-  inputs.src-csvtable-v0_3_1.ref   = "v0_3_1";
   inputs.src-csvtable-v0_3_1.repo  = "csvtable";
   inputs.src-csvtable-v0_3_1.type  = "github";
   
