@@ -11,6 +11,7 @@
   inputs.src-csvtable-0_3_0.ref   = "refs/tags/0.3.0";
   inputs.src-csvtable-0_3_0.owner = "apahl";
   inputs.src-csvtable-0_3_0.repo  = "csvtable";
+  inputs.src-csvtable-0_3_0.dir   = "";
   inputs.src-csvtable-0_3_0.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
