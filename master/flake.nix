@@ -11,7 +11,6 @@
   inputs.src-csvtable-master.ref   = "refs/heads/master";
   inputs.src-csvtable-master.owner = "apahl";
   inputs.src-csvtable-master.repo  = "csvtable";
-  inputs.src-csvtable-master.dir   = "";
   inputs.src-csvtable-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
