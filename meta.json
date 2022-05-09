@@ -7,7 +7,7 @@
   "license": "MIT",
   "web": "https://github.com/apahl/csvtable",
   "refs": [
-    "fatal: unable to access 'https://github.com/apahl/csvtable/': SSL connection timeout",
+    "fatal: unable to access 'https://github.com/apahl/csvtable/': Could not resolve host: github.com",
     ""
   ],
   "heads": []
